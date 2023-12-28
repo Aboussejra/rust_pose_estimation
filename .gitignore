@@ -1,0 +1,13 @@
+rust/target/
+/doc
+/gh-pages
+build/
+*.py[co]
+__pycache__/
+.cache
+.pytest_cache/
+dist/
+.tox/
+.mypy_cache/
+.hypothesis/
+.eggs/
